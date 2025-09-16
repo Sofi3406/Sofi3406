@@ -54,6 +54,11 @@ A web platform connecting patients and therapists:
 
 ---
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sofi3406&show_icons=true&theme=radical" alt="Sofi3406's GitHub stats" />
+</p>
+
 ### 📜 Certificates
 
 - Programming Fundamentals (Udacity, Nov 2024)  
@@ -88,7 +93,3 @@ A web platform connecting patients and therapists:
 - 🦸 I believe in using tech for good: empowering people, supporting mental health, and building inclusive communities.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sofi3406&show_icons=true&theme=radical" alt="Sofi3406's GitHub stats" />
-</p>
