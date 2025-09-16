@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Sofiya Yasin 👋</h1>
 <p align="center">
   <em>Computer Science Student &middot; Junior Full Stack Developer</em>  
@@ -30,6 +29,10 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator)
 
@@ -54,33 +57,22 @@ A web platform connecting patients and therapists:
 
 ---
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sofi3406&show_icons=true&theme=radical" alt="Sofi3406's GitHub stats" />
 </p>
-
-### 📜 Certificates
-
-- Programming Fundamentals (Udacity, Nov 2024)  
-  <img src="certificates/programming-fundamentals.png" alt="Programming Fundamentals Certificate" width="350"/>
-
-- Data Analysis Fundamentals (Udacity, Apr 2025)  
-  <img src="certificates/data-analysis-fundamentals.png" alt="Data Analysis Fundamentals Certificate" width="300"/>
-
-- Certificate of Practice (Regional Youth & Sports Bureau)  
-  <img src="certificates/practice-certificate.png" alt="Practice Certificate" width="350"/>
-
-- My Bean Innovation Hub Training  
-  <img src="certificates/mybean-certificate.png" alt="My Bean Certificate" width="350"/>
 
 ---
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sofiya-yasin-181345355)
-- [Telegram](https://t.me/wisdom0746)
-- [Portfolio/Website](https://sofiyayasinwebdeveloperandgraphicdesi.netlify.app/)
-- [TikTok](https://www.tiktok.com/@sofiya.yasin357)
+<p align="left">
+  <a href="mailto:sofiyasin190@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sofiya-yasin-181345355" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/wisdom0746" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
+  <a href="https://sofiyayasinwebdeveloperandgraphicdesi.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=web&logoColor=white" /></a>
+  <a href="https://github.com/Sofi3406" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@sofiya.yasin357" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/-TikTok-010101?style=flat&logo=tiktok&logoColor=white" /></a>
+</p>
 
 ---
 
