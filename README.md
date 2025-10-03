@@ -53,7 +53,7 @@ A web platform connecting patients and therapists:
 ### 📚 Other Notable Projects
 
 - [Nexus DSA Tutorials](https://github.com/Sofi3406/nexus_tutorial_dsa): Educational resources and tutorials for Data Structures & Algorithms.
-- [MyFitnessPall](https://github.com/Sofi3406/my_fitnesspall): Personal fitness tracking and wellness app.
+- [Student_Freelance_Marketplace](https://github.com/Sofi3406/Student_Freelance_Marketplace): Personal fitness tracking and wellness app.
 
 ---
 
