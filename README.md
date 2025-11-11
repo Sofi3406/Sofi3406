@@ -4,14 +4,16 @@
 </p>
 <p align="center"><b>“Nothing is impossible!”</b></p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sofi3406&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ### 👩‍💻 About Me
 
-- 💡 Computer Science Student passionate about learning and building impactful solutions.
-- 💻 Junior Full Stack Developer with hands-on experience in both frontend and backend technologies.
-- 🎨 Aspiring Designer skilled in Adobe Photoshop & Illustrator.
-- 🌍 Always exploring new tech, solving problems, and leveling up my skills!
+- 💡 Computer Science student passionate about learning and building impactful solutions.  
+- 💻 Junior Full Stack Developer with hands-on experience in both frontend and backend technologies.  
 
 ---
 
@@ -42,24 +44,41 @@
 
 #### [Yebragi Psychotherapy Web Platform](https://github.com/Sofi3406/yebragi-psychotherapics_web_platform)
 A web platform connecting patients and therapists:
-- 📅 Book appointments easily
-- 💳 Secure payments (Chapa integration)
-- 📹 Automated Google Meet session links
-- 🧠 Curated mental health resources
-- 🗄 Detailed backend architecture: REST & GraphQL APIs, third-party integrations, background processing, developer workflows
+- 📅 Easy appointment booking  
+- 💳 Secure payments (Chapa integration)  
+- 📹 Automated Google Meet session links  
+- 🧠 Curated mental health resources  
+- 🗄 REST & GraphQL APIs, third-party integrations, and scalable backend architecture  
 
 ---
 
 ### 📚 Other Notable Projects
 
-- [Nexus DSA Tutorials](https://github.com/Sofi3406/nexus_tutorial_dsa): Educational resources and tutorials for Data Structures & Algorithms.
-- [Student_Freelance_Marketplace](https://github.com/Sofi3406/Student_Freelance_Marketplace): Personal fitness tracking and wellness app.
+- [Nexus DSA Tutorials](https://github.com/Sofi3406/nexus_tutorial_dsa): Educational tutorials and resources for Data Structures & Algorithms.  
+- [Student Freelance Marketplace](https://github.com/Sofi3406/Student_Freelance_Marketplace): A freelance platform where students can offer and hire digital services.  
 
 ---
 
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sofi3406&show_icons=true&theme=radical" alt="Sofi3406's GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sofi3406&theme=radical&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sofi3406&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofi3406&layout=compact&theme=radical" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+[![Sofiya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sofi3406&custom_title=Sofiya's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=00ffff&line=00ffaa&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -69,18 +88,16 @@ A web platform connecting patients and therapists:
   <a href="mailto:sofiyasin190@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sofiya-yasin-181345355" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/wisdom0746" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
-  <a href="https://sofiyayasin-psi.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=web&logoColor=white" /></a>
+  <a href="https://sofiyayasinwebdeveloperandgraphicdesi.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=web&logoColor=white" /></a>
   <a href="https://github.com/Sofi3406" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@sofiya.yasin357" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/-TikTok-010101?style=flat&logo=tiktok&logoColor=white" /></a>
 </p>
+
 ---
 
 ### 🎉 Fun Facts About Me
 
-- 🌱 I love learning new frameworks and design tools—every project is a new adventure!
-- ☕️ My best code is written with a cup of Ethiopian coffee in hand.
-- 🎵 Coding playlists and lo-fi beats are my secret productivity hack.
-- 🧩 I enjoy solving puzzles and brain teasers—both in code and for fun.
-- 🦸 I believe in using tech for good: empowering people, supporting mental health, and building inclusive communities.
-
+- 🌱 I love learning new frameworks and design tools—every project is a new adventure!  .  
+- 🎵 Coding playlists and lo-fi beats are my secret productivity hack.  
+  
 ---
