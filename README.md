@@ -2,7 +2,6 @@
 <p align="center">
   <em>Computer Science Student &middot; Junior Full Stack Developer</em>
 </p>
-<p align="center"><b>“Nothing is impossible!”</b></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sofi3406&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
 </p>
@@ -37,22 +36,6 @@
 
 ---
 
-### 🌟 Featured Project
-#### [Yebragi Psychotherapy Web Platform](https://github.com/Sofi3406/yebragi-psychotherapics_web_platform)
-A web platform connecting patients and therapists:
-- 📅 Easy appointment booking
-- 💳 Secure payments (Chapa integration)
-- 📹 Automated Google Meet session links
-- 🧠 Curated mental health resources
-- 🗄 REST & GraphQL APIs, third-party integrations, and scalable backend architecture
-
----
-
-### 📚 Other Notable Projects
-- [Nexus DSA Tutorials](https://github.com/Sofi3406/nexus_tutorial_dsa): Educational tutorials and resources for Data Structures & Algorithms.
-- [Student Freelance Marketplace](https://github.com/Sofi3406/Student_Freelance_Marketplace): A freelance platform where students can offer and hire digital services.
-
----
 
 ### 🏆 GitHub Trophies
 <p align="center">
@@ -62,16 +45,10 @@ A web platform connecting patients and therapists:
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sofi3406&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofi3406&layout=compact&theme=radical" />
-</div>
-
 
  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sofi3406&theme=radical" alt="GitHub Streak" />
-</div> -->
+</div>
 
 ---
 
