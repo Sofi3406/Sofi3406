@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Sofiya Yasin 👋</h1>
 <p align="center">
-  <em>Computer Science Student &middot; Junior Full Stack Developer</em>  
+  <em>Computer Science Student &middot; Junior Full Stack Developer</em>
 </p>
 <p align="center"><b>“Nothing is impossible!”</b></p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sofi3406&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
 </p>
@@ -11,14 +10,12 @@
 ---
 
 ### 👩‍💻 About Me
-
-- 💡 Computer Science student passionate about learning and building impactful solutions.  
-- 💻 Junior Full Stack Developer with hands-on experience in both frontend and backend technologies.  
+- 💡 Computer Science student passionate about learning and building impactful solutions.
+- 💻 Junior Full Stack Developer with hands-on experience in both frontend and backend technologies.
 
 ---
 
 ### 🚀 Top Skills & Technologies
-
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
@@ -41,26 +38,23 @@
 ---
 
 ### 🌟 Featured Project
-
 #### [Yebragi Psychotherapy Web Platform](https://github.com/Sofi3406/yebragi-psychotherapics_web_platform)
 A web platform connecting patients and therapists:
-- 📅 Easy appointment booking  
-- 💳 Secure payments (Chapa integration)  
-- 📹 Automated Google Meet session links  
-- 🧠 Curated mental health resources  
-- 🗄 REST & GraphQL APIs, third-party integrations, and scalable backend architecture  
+- 📅 Easy appointment booking
+- 💳 Secure payments (Chapa integration)
+- 📹 Automated Google Meet session links
+- 🧠 Curated mental health resources
+- 🗄 REST & GraphQL APIs, third-party integrations, and scalable backend architecture
 
 ---
 
 ### 📚 Other Notable Projects
-
-- [Nexus DSA Tutorials](https://github.com/Sofi3406/nexus_tutorial_dsa): Educational tutorials and resources for Data Structures & Algorithms.  
-- [Student Freelance Marketplace](https://github.com/Sofi3406/Student_Freelance_Marketplace): A freelance platform where students can offer and hire digital services.  
+- [Nexus DSA Tutorials](https://github.com/Sofi3406/nexus_tutorial_dsa): Educational tutorials and resources for Data Structures & Algorithms.
+- [Student Freelance Marketplace](https://github.com/Sofi3406/Student_Freelance_Marketplace): A freelance platform where students can offer and hire digital services.
 
 ---
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sofi3406&theme=radical&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </p>
@@ -68,22 +62,25 @@ A web platform connecting patients and therapists:
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sofi3406&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sofi3406&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofi3406&layout=compact&theme=radical" />
 </div>
+
+
+ <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sofi3406&theme=radical" alt="GitHub Streak" />
+</div> -->
 
 ---
 
 ### 📈 Activity Graph
-
 [![Sofiya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sofi3406&custom_title=Sofiya's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=00ffff&line=00ffaa&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 🌐 Connect with Me
-
 <p align="left">
   <a href="mailto:sofiyasin190@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sofiya-yasin-181345355" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -96,8 +93,4 @@ A web platform connecting patients and therapists:
 ---
 
 ### 🎉 Fun Facts About Me
-
-- 🌱 I love learning new frameworks and design tools—every project is a new adventure!  .  
-- 🎵 Coding playlists and lo-fi beats are my secret productivity hack.  
-  
----
+- 🎵 Coding playlists and lo-fi beats are my secret productivity hack.
