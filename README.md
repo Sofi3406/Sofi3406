@@ -37,11 +37,6 @@
 ---
 
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sofi3406&theme=radical&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ### 📊 GitHub Stats
