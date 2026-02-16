@@ -69,5 +69,3 @@
 
 ---
 
-### 🎉 Fun Facts About Me
-- 🎵 Coding playlists and lo-fi beats are my secret productivity hack.
