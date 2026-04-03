@@ -10,7 +10,8 @@
 
 ### 👩‍💻 About Me
 - 💡 Computer Science student passionate about learning and building impactful solutions.
-- 💻 Junior Full Stack Developer with hands-on experience in both frontend and backend technologies.
+- 💻 Junior Full Stack Developer with hands-on experience in frontend and backend technologies.
+- 🤖 Currently learning Artificial Intelligence (FUSE-AI-101, YEEAP Program).
 
 ---
 
@@ -36,12 +37,8 @@
 
 ---
 
-
----
-
 ### 📊 GitHub Stats
-
- <div align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sofi3406&theme=radical" alt="GitHub Streak" />
 </div>
 
@@ -63,4 +60,3 @@
 </p>
 
 ---
-
