@@ -56,7 +56,7 @@
   <a href="https://t.me/wisdom0746" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
   <a href="https://sofiyayasinedris.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=web&logoColor=white" /></a>
   <a href="https://github.com/Sofi3406" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@sofiya.yasin357" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/-TikTok-010101?style=flat&logo=tiktok&logoColor=white" /></a>
+
 </p>
 
 ---
