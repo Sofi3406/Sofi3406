@@ -2,9 +2,6 @@
 <p align="center">
   <em>Computer Science Student &middot; Junior Full Stack Developer</em>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sofi3406&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
-</p>
 
 ---
 
@@ -25,7 +22,9 @@
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
